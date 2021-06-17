@@ -1,3 +1,5 @@
+#To find minimum number of scalar multiplication needed to compute product of n matrices.
+
 import sys
  
 def Calc(p,i,j):
